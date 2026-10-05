@@ -1,0 +1,6 @@
+{
+  "name": "Space Academy — Kosmik Ta'lim va Test Platformasi",
+  "description": "Future Space Academy uslubidagi interaktiv kosmik ta'lim, testlar, o'quvchilar reytingi va statistika platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
